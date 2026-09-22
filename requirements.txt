@@ -1,0 +1,14 @@
+transformers
+accelerate
+torch
+ragas
+datasets
+langchain
+langchain_community
+langchain_huggingface
+langchain_text_splitters
+langchain-classic
+langchain-cohere
+faiss-gpu  # use faiss-cpu instead if you don't have a CUDA GPU
+scikit-learn
+numpy
